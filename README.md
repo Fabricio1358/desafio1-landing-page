@@ -11,7 +11,7 @@ https://docs.google.com/spreadsheets/d/1of7rzuRTyqO-oJ0yHFqQoxeKcP_OIcuWABkZBKKk
 
 ##Estrutura
 
-<!DOCTYPE html>
+<!--1<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -54,7 +54,7 @@ https://docs.google.com/spreadsheets/d/1of7rzuRTyqO-oJ0yHFqQoxeKcP_OIcuWABkZBKKk
             <button type="submit"> Fale Conosco </button> 
         </form> 
     </div>   
-    <script src="index.js"></script>
+    <script src="index.js"></script>--!>
 </body>
 </html>
 
