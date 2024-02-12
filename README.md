@@ -62,7 +62,7 @@ https://docs.google.com/spreadsheets/d/1of7rzuRTyqO-oJ0yHFqQoxeKcP_OIcuWABkZBKKk
 
 ##Estrutura
 
-*{
+/**{
     margin: 0px;
     font-family: 'inter';
 }
