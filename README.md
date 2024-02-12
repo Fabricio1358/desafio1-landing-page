@@ -11,7 +11,7 @@ https://docs.google.com/spreadsheets/d/1of7rzuRTyqO-oJ0yHFqQoxeKcP_OIcuWABkZBKKk
 
 ##Estrutura
 
-<!--1<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -62,7 +62,7 @@ https://docs.google.com/spreadsheets/d/1of7rzuRTyqO-oJ0yHFqQoxeKcP_OIcuWABkZBKKk
 
 ##Estrutura
 
-/**{
+*{
     margin: 0px;
     font-family: 'inter';
 }
