@@ -7,11 +7,21 @@ Desafio 1 - Landing Page do Curso de Tecnologia da Escola DNC
 https://dnc-desafio-1-landing-page.netlify.app
 https://docs.google.com/spreadsheets/d/1of7rzuRTyqO-oJ0yHFqQoxeKcP_OIcuWABkZBKKkvtE/edit#gid=0
 
+
+
+
+
+
+
+
+
+
+
 #HTML
 
 ##Estrutura
 
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
